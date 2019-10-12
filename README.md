@@ -1,5 +1,7 @@
 # The Go Programming Language
 
+PERSONAL CLONED COPY, INTEND TO WORK OUT ALL EXERCISES AND UPLOAD THEM HERE.https://github.com/NoSpectators/gopl.io.git 
+
 This repository provides the downloadable example programs
 for the book, "The Go Programming Language"; see http://www.gopl.io.
 
